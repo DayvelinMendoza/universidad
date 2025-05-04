@@ -2,7 +2,9 @@
   <diagram name="Página-1" id="XMNgRFGaNE8pH0lpUS9o">
     <mxGraphModel dx="872" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" Diagrama="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="BIgReGWXgLKfXiFFHuDf-1" value="escuela" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="325" y="30" width="177" height="60" as="geometry" />
