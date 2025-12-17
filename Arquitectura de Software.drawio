@@ -1,177 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Página-1" id="haCtRBFnxd14fFaI5hfB">
-    <mxGraphModel dx="1632" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2NVwZuEyomhJtL9mnua3-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Personal de la Deo" vertex="1">
-          <mxGeometry height="70" width="40" x="60" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="760" as="sourcePoint" />
-            <mxPoint x="80.08000000000003" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-7" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="110" x="267" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-4" parent="2NVwZuEyomhJtL9mnua3-7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-5" edge="1" parent="2NVwZuEyomhJtL9mnua3-7" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint y="30" as="sourcePoint" />
-            <mxPoint x="50" y="29.810000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-6" edge="1" parent="2NVwZuEyomhJtL9mnua3-7" style="endArrow=none;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint y="50" as="sourcePoint" />
-            <mxPoint y="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="319.76" y="765" as="sourcePoint" />
-            <mxPoint x="319.99" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="pt_gestión_solicitudes" vertex="1">
-          <mxGeometry height="30" width="130" x="257" y="115" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-16" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="500.11" y="767" as="sourcePoint" />
-            <mxPoint x="500" y="147" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="ct_gestión_solicitud" vertex="1">
-          <mxGeometry height="30" width="130" x="440" y="117" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-20" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.486;entryY=0.908;entryDx=0;entryDy=0;entryPerimeter=0;" target="2NVwZuEyomhJtL9mnua3-21" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="760" as="sourcePoint" />
-            <mxPoint x="680" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-21" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Estado" vertex="1">
-          <mxGeometry height="30" width="130" x="617.41" y="117" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-23" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="640" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-19" parent="2NVwZuEyomhJtL9mnua3-23" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-22" edge="1" parent="2NVwZuEyomhJtL9mnua3-23" style="endArrow=none;html=1;rounded=0;entryX=0.805;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint y="60" as="sourcePoint" />
-            <mxPoint x="84.81999999999994" y="60.00000000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="190" as="sourcePoint" />
-            <mxPoint x="320" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-28" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. El personal de la DEO accede a &quot;Gestión de solicitudes&quot;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="83" y="157" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="401" y="240" />
-              <mxPoint x="401" y="290" />
-            </Array>
-            <mxPoint x="321" y="240" as="sourcePoint" />
-            <mxPoint x="321" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-32" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2. Presentar&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;pt_gestión_solicitudes&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="320" y="196" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="310" as="sourcePoint" />
-            <mxPoint x="320" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-35" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Seleccionar una solicitud asignada a su unidad.&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="83" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="320" y="350" as="sourcePoint" />
-            <mxPoint x="500" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-37" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4. Verificar la solicitud escogida&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="320" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="500" y="390" as="sourcePoint" />
-            <mxPoint x="680" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-39" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;5. Validar la información de la solicitud escogida&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="501" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="420" />
-              <mxPoint x="400" y="470" />
-            </Array>
-            <mxPoint x="320" y="420" as="sourcePoint" />
-            <mxPoint x="320" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-41" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6. Presentar la información completa de la solicitud asignada&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="320" y="380" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="80" y="520" as="sourcePoint" />
-            <mxPoint x="320" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-44" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. Actualizar estado de la solicitud de &quot;pendiente&quot; a &quot;en revición&quot;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="83" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="320" y="560" as="sourcePoint" />
-            <mxPoint x="500" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-46" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;8. Verificar cambio&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="320" y="530" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="501" y="600" as="sourcePoint" />
-            <mxPoint x="680" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-48" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. Validar nuevo estado&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="501" y="570" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-49" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="401" y="660" />
-              <mxPoint x="401" y="710" />
-            </Array>
-            <mxPoint x="321" y="660" as="sourcePoint" />
-            <mxPoint x="321" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-50" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;10. El sistema guarda los cambios y muestra el mensaje &quot;solicitud actualizada&quot; y notifica al estudiante.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="320" y="610" as="geometry" />
-        </mxCell>
         <mxCell id="2NVwZuEyomhJtL9mnua3-51" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Personal de la Deo" vertex="1">
           <mxGeometry height="70" width="40" x="60" y="1451" as="geometry" />
         </mxCell>
@@ -277,32 +109,17 @@
         <mxCell id="2NVwZuEyomhJtL9mnua3-82" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. Validar nuevo estado&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="680" y="1560" as="geometry" />
         </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-85" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="70" width="60" x="470" y="45" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-13" parent="2NVwZuEyomhJtL9mnua3-85" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" value="" vertex="1">
-          <mxGeometry height="60" width="60" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="2NVwZuEyomhJtL9mnua3-18" edge="1" parent="2NVwZuEyomhJtL9mnua3-85" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="25" y="10" />
-            </Array>
-            <mxPoint x="35" y="20.02000000000001" as="sourcePoint" />
-            <mxPoint x="35" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Personal de la Deo" vertex="1">
-          <mxGeometry height="70" width="40" x="980" y="70" as="geometry" />
+          <mxGeometry height="70" width="40" x="920" y="60" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-2" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1000" y="780" as="sourcePoint" />
-            <mxPoint x="1000.08" y="160" as="targetPoint" />
+            <mxPoint x="940" y="770" as="sourcePoint" />
+            <mxPoint x="940.08" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="110" x="1104" y="75" as="geometry" />
+          <mxGeometry height="60" width="110" x="1044" y="65" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-4" parent="IOVXzyaEUei4NVy_9NGk-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="50" as="geometry" />
@@ -321,33 +138,33 @@
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1156.76" y="790" as="sourcePoint" />
-            <mxPoint x="1156.99" y="170" as="targetPoint" />
+            <mxPoint x="1096.76" y="780" as="sourcePoint" />
+            <mxPoint x="1096.99" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="pt_gestión_solicitudes" vertex="1">
-          <mxGeometry height="30" width="130" x="1094" y="140" as="geometry" />
+          <mxGeometry height="30" width="130" x="1034" y="130" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1337.1100000000001" y="792" as="sourcePoint" />
-            <mxPoint x="1337" y="172" as="targetPoint" />
+            <mxPoint x="1277.1100000000001" y="782" as="sourcePoint" />
+            <mxPoint x="1277" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="ct_gestión_solicitud" vertex="1">
-          <mxGeometry height="30" width="130" x="1277" y="142" as="geometry" />
+          <mxGeometry height="30" width="130" x="1217" y="132" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.533;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1500" y="780" as="sourcePoint" />
-            <mxPoint x="1517" y="185" as="targetPoint" />
+            <mxPoint x="1440" y="770" as="sourcePoint" />
+            <mxPoint x="1457" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Solicitud" vertex="1">
-          <mxGeometry height="30" width="130" x="1429.9999999999998" y="142" as="geometry" />
+          <mxGeometry height="30" width="130" x="1369.9999999999998" y="132" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-13" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="1452.59" y="75" as="geometry" />
+          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="1392.59" y="65" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-14" parent="IOVXzyaEUei4NVy_9NGk-13" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
@@ -360,108 +177,108 @@
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1000" y="215" as="sourcePoint" />
-            <mxPoint x="1157" y="215" as="targetPoint" />
+            <mxPoint x="940" y="205" as="sourcePoint" />
+            <mxPoint x="1097" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-17" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. El personal de la DEO accede a &quot;Gestión de solicitudes&quot;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="1003" y="180" as="geometry" />
+          <mxGeometry height="30" width="150" x="943" y="170" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1238" y="265" />
-              <mxPoint x="1238" y="315" />
+              <mxPoint x="1178" y="255" />
+              <mxPoint x="1178" y="305" />
             </Array>
-            <mxPoint x="1158" y="265" as="sourcePoint" />
-            <mxPoint x="1158" y="315" as="targetPoint" />
+            <mxPoint x="1098" y="255" as="sourcePoint" />
+            <mxPoint x="1098" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-19" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2. Presentar&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;pt_gestión_solicitudes&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="1157" y="221" as="geometry" />
+          <mxGeometry height="30" width="130" x="1097" y="211" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1000" y="335" as="sourcePoint" />
-            <mxPoint x="1157" y="335" as="targetPoint" />
+            <mxPoint x="940" y="325" as="sourcePoint" />
+            <mxPoint x="1097" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-21" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Seleccionar una solicitud asignada a su unidad.&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="1003" y="305" as="geometry" />
+          <mxGeometry height="30" width="150" x="943" y="295" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1157" y="375" as="sourcePoint" />
-            <mxPoint x="1337" y="375" as="targetPoint" />
+            <mxPoint x="1097" y="365" as="sourcePoint" />
+            <mxPoint x="1277" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-23" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4. Verificar la solicitud escogida&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="1157" y="345" as="geometry" />
+          <mxGeometry height="30" width="150" x="1097" y="335" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1337" y="415" as="sourcePoint" />
-            <mxPoint x="1500" y="415" as="targetPoint" />
+            <mxPoint x="1277" y="405" as="sourcePoint" />
+            <mxPoint x="1440" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-25" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;5. Validar la información de la solicitud escogida&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="1338" y="385" as="geometry" />
+          <mxGeometry height="30" width="150" x="1278" y="375" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1237" y="445" />
-              <mxPoint x="1237" y="495" />
+              <mxPoint x="1177" y="435" />
+              <mxPoint x="1177" y="485" />
             </Array>
-            <mxPoint x="1157" y="445" as="sourcePoint" />
-            <mxPoint x="1157" y="495" as="targetPoint" />
+            <mxPoint x="1097" y="435" as="sourcePoint" />
+            <mxPoint x="1097" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-27" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6. Presentar la información completa de la solicitud asignada&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="1157" y="405" as="geometry" />
+          <mxGeometry height="30" width="130" x="1097" y="395" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1000" y="545" as="sourcePoint" />
-            <mxPoint x="1157" y="545" as="targetPoint" />
+            <mxPoint x="940" y="535" as="sourcePoint" />
+            <mxPoint x="1097" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-29" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. Actualizar estado de la solicitud de &quot;pendiente&quot; a &quot;en revición&quot;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="1003" y="500" as="geometry" />
+          <mxGeometry height="30" width="130" x="943" y="490" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1157" y="585" as="sourcePoint" />
-            <mxPoint x="1337" y="585" as="targetPoint" />
+            <mxPoint x="1097" y="575" as="sourcePoint" />
+            <mxPoint x="1277" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-31" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;8. Verificar cambio&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="1157" y="555" as="geometry" />
+          <mxGeometry height="30" width="130" x="1097" y="545" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1338" y="625" as="sourcePoint" />
-            <mxPoint x="1600" y="625" as="targetPoint" />
+            <mxPoint x="1278" y="615" as="sourcePoint" />
+            <mxPoint x="1540" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-33" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. Validar nuevo estado&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="1338" y="595" as="geometry" />
+          <mxGeometry height="30" width="130" x="1278" y="585" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1238" y="685" />
-              <mxPoint x="1238" y="735" />
+              <mxPoint x="1178" y="675" />
+              <mxPoint x="1178" y="725" />
             </Array>
-            <mxPoint x="1158" y="685" as="sourcePoint" />
-            <mxPoint x="1158" y="735" as="targetPoint" />
+            <mxPoint x="1098" y="675" as="sourcePoint" />
+            <mxPoint x="1098" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-35" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;10. El sistema guarda los cambios y muestra el mensaje &quot;solicitud actualizada&quot; y notifica al estudiante.&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="1157" y="635" as="geometry" />
+          <mxGeometry height="30" width="130" x="1097" y="625" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-36" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="70" width="60" x="1307" y="70" as="geometry" />
+          <mxGeometry height="70" width="60" x="1247" y="60" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-37" parent="IOVXzyaEUei4NVy_9NGk-36" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" value="" vertex="1">
           <mxGeometry height="60" width="60" y="10" as="geometry" />
@@ -476,7 +293,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-39" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="1560" y="75" as="geometry" />
+          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="1500" y="65" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-40" parent="IOVXzyaEUei4NVy_9NGk-39" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
@@ -488,13 +305,343 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Estado" vertex="1">
-          <mxGeometry height="30" width="76" x="1564.4099999999999" y="140" as="geometry" />
+          <mxGeometry height="30" width="76" x="1504.4099999999999" y="130" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-43" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.475;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-42" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1600" y="780" as="sourcePoint" />
-            <mxPoint x="1601.41" y="170" as="targetPoint" />
+            <mxPoint x="1540" y="770" as="sourcePoint" />
+            <mxPoint x="1541.41" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-44" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Personal de la Deo" vertex="1">
+          <mxGeometry height="70" width="40" x="81" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-45" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="101" y="780" as="sourcePoint" />
+            <mxPoint x="101.07999999999993" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-46" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="110" x="205" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-47" parent="IOVXzyaEUei4NVy_9NGk-46" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-48" edge="1" parent="IOVXzyaEUei4NVy_9NGk-46" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="50" y="29.810000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-49" edge="1" parent="IOVXzyaEUei4NVy_9NGk-46" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-50" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="257.76" y="790" as="sourcePoint" />
+            <mxPoint x="257.99" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-51" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="pt_gestión_solicitudes" vertex="1">
+          <mxGeometry height="30" width="130" x="195" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-52" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="438.1100000000001" y="792" as="sourcePoint" />
+            <mxPoint x="438" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-53" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="ct_gestión_solicitud" vertex="1">
+          <mxGeometry height="30" width="130" x="378" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-54" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.533;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="601" y="780" as="sourcePoint" />
+            <mxPoint x="618" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-55" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Solicitud" vertex="1">
+          <mxGeometry height="30" width="130" x="531" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-56" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="553.5900000000001" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-57" parent="IOVXzyaEUei4NVy_9NGk-56" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-58" edge="1" parent="IOVXzyaEUei4NVy_9NGk-56" style="endArrow=none;html=1;rounded=0;entryX=0.805;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="84.81999999999994" y="60.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="101" y="215" as="sourcePoint" />
+            <mxPoint x="258" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-60" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. El personal de la DEO accede a &quot;Gestión de solicitudes&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="104" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="265" />
+              <mxPoint x="339" y="315" />
+            </Array>
+            <mxPoint x="259" y="265" as="sourcePoint" />
+            <mxPoint x="259" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-62" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2. Presentar&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;pt_gestión_solicitudes&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="258" y="221" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-63" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="101" y="335" as="sourcePoint" />
+            <mxPoint x="258" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-64" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Seleccionar una solicitud asignada a su unidad.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="104" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-65" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="258" y="375" as="sourcePoint" />
+            <mxPoint x="438" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-66" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4. Verificar la solicitud escogida&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="258" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-67" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="438" y="415" as="sourcePoint" />
+            <mxPoint x="601" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-68" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;5. Validar la información de la solicitud escogida&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="439" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-69" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="445" />
+              <mxPoint x="338" y="495" />
+            </Array>
+            <mxPoint x="258" y="445" as="sourcePoint" />
+            <mxPoint x="258" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-70" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6. Presentar la información completa de la solicitud asignada&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="258" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-71" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="101" y="545" as="sourcePoint" />
+            <mxPoint x="258" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-72" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. Actualizar estado de la solicitud de &quot;pendiente&quot; a &quot;en revición&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="104" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-73" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="258" y="585" as="sourcePoint" />
+            <mxPoint x="438" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-74" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;8. Verificar cambio&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="258" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-75" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="439" y="625" as="sourcePoint" />
+            <mxPoint x="701" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-76" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. Validar nuevo estado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="439" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-77" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="685" />
+              <mxPoint x="339" y="735" />
+            </Array>
+            <mxPoint x="259" y="685" as="sourcePoint" />
+            <mxPoint x="259" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-78" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;10. El sistema guarda los cambios y muestra el mensaje &quot;solicitud actualizada&quot; y notifica al estudiante.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="258" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-79" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="408" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-80" parent="IOVXzyaEUei4NVy_9NGk-79" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" value="" vertex="1">
+          <mxGeometry height="60" width="60" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-81" edge="1" parent="IOVXzyaEUei4NVy_9NGk-79" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="10" />
+            </Array>
+            <mxPoint x="35" y="20.02000000000001" as="sourcePoint" />
+            <mxPoint x="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-82" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="661" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-83" parent="IOVXzyaEUei4NVy_9NGk-82" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-84" edge="1" parent="IOVXzyaEUei4NVy_9NGk-82" style="endArrow=none;html=1;rounded=0;entryX=0.805;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="84.81999999999994" y="60.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-85" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Estado" vertex="1">
+          <mxGeometry height="30" width="76" x="665.4099999999999" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-86" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.475;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-85" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="701" y="780" as="sourcePoint" />
+            <mxPoint x="702.4099999999999" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-87" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Personal de la Deo" vertex="1">
+          <mxGeometry height="70" width="40" x="880" y="1464" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-88" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="110" x="1103" y="1379" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-89" parent="IOVXzyaEUei4NVy_9NGk-88" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-90" edge="1" parent="IOVXzyaEUei4NVy_9NGk-88" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint x="50" y="29.810000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-91" edge="1" parent="IOVXzyaEUei4NVy_9NGk-88" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-92" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="pt_gestión_solicitudes" vertex="1">
+          <mxGeometry height="30" width="130" x="1116" y="1444" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-93" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="1411" y="1434" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-94" parent="IOVXzyaEUei4NVy_9NGk-93" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-95" edge="1" parent="IOVXzyaEUei4NVy_9NGk-93" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="25" y="10" />
+            </Array>
+            <mxPoint x="35" y="20.02000000000001" as="sourcePoint" />
+            <mxPoint x="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-96" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="1460" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-97" parent="IOVXzyaEUei4NVy_9NGk-96" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-98" edge="1" parent="IOVXzyaEUei4NVy_9NGk-96" style="endArrow=none;html=1;rounded=0;entryX=0.805;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="84.81999999999994" y="60.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-99" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="ct_gestión_solicitud" vertex="1">
+          <mxGeometry height="30" width="130" x="1376" y="1504" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-100" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Estado" vertex="1">
+          <mxGeometry height="30" width="130" x="1437.4099999999999" y="1724" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-101" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="940" y="1504" as="sourcePoint" />
+            <mxPoint x="1080" y="1414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-102" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1240" y="1414" as="sourcePoint" />
+            <mxPoint x="1390" y="1464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-103" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1470" y="1544" as="sourcePoint" />
+            <mxPoint x="1500" y="1634" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-104" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. El personal de la DEO accede a &quot;Gestión de solicitudes&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="893" y="1414" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-105" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2. Presentar&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;pt_gestión_solicitudes&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1270" y="1384" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-106" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4. Verificar la solicitud escogida&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1270" y="1354" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-107" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6. Presentar la información completa de la solicitud asignada&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1270" y="1314" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-108" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;8. Verificar cambio&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1270" y="1274" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-109" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;10. El sistema guarda los cambios y muestra el mensaje &quot;solicitud actualizada&quot; y notifica al estudiante.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1270" y="1223" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-110" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Seleccionar una solicitud asignada a su unidad.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="893" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-111" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. Actualizar estado de la solicitud de &quot;pendiente&quot; a &quot;en revición&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="893" y="1324" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-112" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. Validar nuevo estado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1500" y="1573" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-119" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60.00000000000003" width="84.81999999999994" x="1330" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-120" parent="IOVXzyaEUei4NVy_9NGk-119" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="12.409999999999968" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-121" edge="1" parent="IOVXzyaEUei4NVy_9NGk-119" style="endArrow=none;html=1;rounded=0;entryX=0.805;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="60" as="sourcePoint" />
+            <mxPoint x="84.81999999999994" y="60.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-122" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Solicitud" vertex="1">
+          <mxGeometry height="30" width="130" x="1307" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-123" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1430" y="1540" as="sourcePoint" />
+            <mxPoint x="1390" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-124" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;5. Validar la información de la solicitud escogida&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1258" y="1573" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
