@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Página-1" id="haCtRBFnxd14fFaI5hfB">
-    <mxGraphModel dx="624" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,12 +293,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Personal de la Deo" vertex="1">
-          <mxGeometry height="70" width="40" x="897" y="75" as="geometry" />
+          <mxGeometry height="70" width="40" x="980" y="70" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-2" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="917" y="785" as="sourcePoint" />
-            <mxPoint x="917.08" y="165" as="targetPoint" />
+            <mxPoint x="1000" y="780" as="sourcePoint" />
+            <mxPoint x="1000.08" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-3" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -337,13 +337,13 @@
         <mxCell id="IOVXzyaEUei4NVy_9NGk-10" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="ct_gestión_solicitud" vertex="1">
           <mxGeometry height="30" width="130" x="1277" y="142" as="geometry" />
         </mxCell>
-        <mxCell id="IOVXzyaEUei4NVy_9NGk-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.526;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-12" value="">
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.533;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1500" y="780" as="sourcePoint" />
             <mxPoint x="1517" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOVXzyaEUei4NVy_9NGk-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Estado" vertex="1">
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-12" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Solicitud" vertex="1">
           <mxGeometry height="30" width="130" x="1429.9999999999998" y="142" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-13" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -360,12 +360,12 @@
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="917" y="215" as="sourcePoint" />
+            <mxPoint x="1000" y="215" as="sourcePoint" />
             <mxPoint x="1157" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-17" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. El personal de la DEO accede a &quot;Gestión de solicitudes&quot;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="920" y="182" as="geometry" />
+          <mxGeometry height="30" width="150" x="1003" y="180" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -382,12 +382,12 @@
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="917" y="335" as="sourcePoint" />
+            <mxPoint x="1000" y="335" as="sourcePoint" />
             <mxPoint x="1157" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-21" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Seleccionar una solicitud asignada a su unidad.&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="920" y="305" as="geometry" />
+          <mxGeometry height="30" width="150" x="1003" y="305" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -422,12 +422,12 @@
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="917" y="545" as="sourcePoint" />
+            <mxPoint x="1000" y="545" as="sourcePoint" />
             <mxPoint x="1157" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-29" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7. Actualizar estado de la solicitud de &quot;pendiente&quot; a &quot;en revición&quot;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="920" y="505" as="geometry" />
+          <mxGeometry height="30" width="130" x="1003" y="500" as="geometry" />
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -441,7 +441,7 @@
         <mxCell id="IOVXzyaEUei4NVy_9NGk-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1338" y="625" as="sourcePoint" />
-            <mxPoint x="1500" y="625" as="targetPoint" />
+            <mxPoint x="1600" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IOVXzyaEUei4NVy_9NGk-33" parent="1" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;9. Validar nuevo estado&lt;/span&gt;" vertex="1">
@@ -487,12 +487,12 @@
             <mxPoint x="84.81999999999994" y="60.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOVXzyaEUei4NVy_9NGk-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Personal" vertex="1">
-          <mxGeometry height="30" width="76" x="1568.82" y="140" as="geometry" />
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Estado" vertex="1">
+          <mxGeometry height="30" width="76" x="1564.4099999999999" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="IOVXzyaEUei4NVy_9NGk-43" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.526;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="IOVXzyaEUei4NVy_9NGk-43" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.475;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="IOVXzyaEUei4NVy_9NGk-42" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1603.41" y="779" as="sourcePoint" />
+            <mxPoint x="1600" y="780" as="sourcePoint" />
             <mxPoint x="1601.41" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
